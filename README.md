@@ -1,14 +1,7 @@
 # GithubApp
 React native app from tutorial. Step by step saved in git.
 
-Splash screen
-<img src="https://i.imgur.com/bsSAd8c.png" width="48">
-
-Login Screen
-![screenshot](https://i.imgur.com/BRmTg7I.png")
-
-Focus on username or email field
-![screenshot](https://i.imgur.com/csPB9BV.png")
-
-Focus on password field
-![screenshot](https://i.imgur.com/CeUzLI5.png")
+<img src="https://i.imgur.com/bsSAd8c.png" width="100">
+<img src="https://i.imgur.com/BRmTg7I.png" width="100">
+<img src="https://i.imgur.com/csPB9BV.png" width="100">
+<img src="https://i.imgur.com/CeUzLI5.png" width="100">
