@@ -13,6 +13,7 @@ import {
 } from 'react-native';
 
 import Splash from './Splash';
+import Login from './src/components/Login/Login';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
@@ -24,7 +25,7 @@ const instructions = Platform.select({
 export default class App extends Component<{}> {
   render() {
     return (
-      <Splash />
+      <Login />
     );
   }
 }
