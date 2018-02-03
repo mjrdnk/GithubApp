@@ -2,7 +2,7 @@
 React native app from tutorial. Step by step saved in git.
 
 Splash screen
-![screenshot](https://i.imgur.com/bsSAd8c.png" | width=48)
+![screenshot](https://i.imgur.com/bsSAd8c.png "Screenshot1" {width=40px height=100px})
 
 Login Screen
 ![screenshot](https://i.imgur.com/BRmTg7I.png")
