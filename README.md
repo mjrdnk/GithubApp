@@ -1,5 +1,5 @@
 # GithubApp
-React native app from tutorial. Step by step saved in git.
+Based on [this](https://www.youtube.com/watch?v=FUdy4PHIbww) and [this](https://www.youtube.com/watch?v=1xu1eeRCPEk) awesome videos.
 
 <img src="https://i.imgur.com/bsSAd8c.png" align="left" width="200">
 <img src="https://i.imgur.com/BRmTg7I.png" align="left" width="200">
